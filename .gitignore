@@ -1,0 +1,3 @@
+# 忽略 checkpoints 文件夹及其所有内容
+checkpoints/
+
